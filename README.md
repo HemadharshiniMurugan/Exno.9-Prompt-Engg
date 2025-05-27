@@ -1,8 +1,5 @@
-## Ex no 9 - To explore and understand the various prompting techniques used for generating videos through AI models.
+# Ex no 9 - To explore and understand the various prompting techniques used for generating videos through AI models.
 
-### Date: 
-
-### Register no: 212222040053
 
 ## Aim:
 
